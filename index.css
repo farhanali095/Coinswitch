@@ -1,0 +1,33 @@
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+}
+
+.logo{
+    margin-left: 90px;
+    margin-top: 20px;
+
+}
+
+
+button{
+    border: 1px solid #b1e50e ;
+    height: 60px;
+    width: 160px;
+    border-radius: 5px;
+    background-color: #b1e50e;
+    margin-right: 75px;
+    
+}
+
+.link a{ 
+    color: black;
+    font-family: Nexa, sans-serif;
+    text-decoration: none;
+    margin-right: 60px; 
+    font-size: 22px;
+    margin-top: 20px;
+    }
+    
