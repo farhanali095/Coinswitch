@@ -31,3 +31,36 @@ button{
     margin-top: 20px;
     }
     
+/* mid part of page  */
+
+
+.mid{
+    
+    margin-left: 60px;
+    margin-top: 90px;
+    margin-right: 60px;
+    display: flex ;
+}
+#midimg{
+  
+    width: 800px;
+}
+
+
+#para1{
+    margin-top: 110px;
+    margin-left: 132px;
+      font-family:  Nexa, sans-serif;
+    font-size: 32px;
+    font-weight: bold;
+    color: rgb(74, 71, 71);
+}
+#para2{
+    padding-top: 80px;
+    margin-left: 132px;
+    font-size: 25px;
+    font-family:  Nexa, sans-serif;
+    color: #494b57;
+    font-weight: 15px;
+  
+}
