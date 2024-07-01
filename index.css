@@ -64,3 +64,45 @@ button{
     font-weight: 15px;
   
 }
+
+/* part3 */
+.container2{
+    margin-left: 100px;
+    margin-top: 100px;
+}
+
+.container2 img{
+    height: 190px;
+    width: 160px;
+
+}
+
+
+.container2 p{
+    font-size: 25px;
+    color:#494b57;  
+}
+
+
+.card{
+    height: 250px ;
+    width: 400px;
+    display: inline-block;
+    margin-left: 10px;
+    padding: auto;
+    font-family:  Nexa, sans-serif;
+
+}
+
+
+
+h1{
+    color: black;
+    padding: 20px;
+}
+
+#why{
+    font-size: 40px;
+    font-family:  Nexa, sans-serif;
+    color: #494b57;
+}
